@@ -1,0 +1,13 @@
+내용 정리 복습
+실습 정리 복습
+
+설명 발표 - 누나
+실습 발표 - 내가
+
+
+
+Azure Active Directory에서 사용자 설정 방법
+
+사용자 만드는 방법
+이름 - kim
+사용자 이름 - kim@dyddkdlel33outlook.onmicrosoft.com

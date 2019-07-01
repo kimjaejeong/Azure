@@ -1,0 +1,13 @@
+3일차  Azure Network 이해 하기 위한 Network 기초 
+	
+
+1. IP Address 
+2. Subnetting, CIDR 표기법
+3. OSI 7 Layer
+4. Network 장비 (라우터, 스위치, 허브)
+5. NAT 
+6. VPN
+7. DNS
+
+3일차  Azure Network 
+	10979-Module 5,  20533-Module 2
